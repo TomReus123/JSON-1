@@ -1,0 +1,16 @@
+{
+    "school": {
+		"Mediacollege":{
+		"category": "MBO",
+		"nr_students": 20000,
+		"courses": {"MD": "Mediadevelopment",
+					"GD": "Gamedevelopment"}
+		},
+		"Horizoncollege":{
+		"category": "MBO",
+		"nr_students": 10000,
+		"courses": {"VZ": "Verzorging",
+					"NL": "Nederlands"}
+		}
+		}
+}
